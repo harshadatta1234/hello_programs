@@ -1,6 +1,6 @@
 class hello
   {
     public static void main(String args[]){
-    system.out.println("Hello Devops from java");
+    System.out.println("Hello Devops from java");
     }
   }
